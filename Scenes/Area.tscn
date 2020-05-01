@@ -1,0 +1,46 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Scenes/Person.gd" type="Script" id=1]
+[ext_resource path="res://Scenes/Person.tscn" type="PackedScene" id=2]
+
+[node name="Area" type="Node2D"]
+
+[node name="Person" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person2" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person3" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person4" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person5" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person6" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person7" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person8" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person9" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
+
+[node name="Person10" parent="." instance=ExtResource( 2 )]
+position = Vector2( 80.8601, 110.264 )
+script = ExtResource( 1 )
