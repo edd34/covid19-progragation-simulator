@@ -34,6 +34,7 @@ func _input(event):
 				elem.state = elem.stage.S
 				elem.date_since_infection = 0
 				elem.collision_shape.disabled = false
+				elem.timer_node.stop()
 		elif event.button_index == 3:
 			var nb_S = 0
 			var nb_E = 0
