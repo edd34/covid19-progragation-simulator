@@ -22,7 +22,6 @@ margin_bottom = 20.0
 [node name="RichTextLabel" type="RichTextLabel" parent="Container/Popup"]
 margin_right = 410.0
 margin_bottom = 1094.0
-text = "hrthtrhrthrt"
 __meta__ = {
 "_edit_use_anchors_": false
 }
